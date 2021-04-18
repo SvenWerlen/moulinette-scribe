@@ -1,0 +1,26 @@
+{
+  "name": "moulinette-scribe",
+  "title": "Moulinette Scribe",
+  "description": "Moulinette Scribe provides tools for downloading/managing translations without having to maintain multiple modules. ",
+  "version": "0.1.0",
+  "author": "Sven Werlen",
+  "esmodules": ["moulinette-scribe.js"],
+  "styles": ["moulinette-scribe.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "French",
+      "path": "lang/fr.json"
+    }
+  ],
+  "url": "https://github.com/SvenWerlen/moulinette-scribe",
+  "download": "https://github.com/SvenWerlen/moulinette-scribe/archive/v-0.1.0.zip",
+  "manifest": "https://raw.githubusercontent.com/SvenWerlen/moulinette-scribe/master/module.json",
+  "minimumCoreVersion": "0.7.6",
+  "compatibleCoreVersion": "0.7.9"
+}

@@ -1,0 +1,19 @@
+.mtte .transl { 
+  width: 550px;
+}
+
+.mtte .list .pack {
+  display:flex;
+  align-items:center;
+  padding-left: 3px;
+  min-height: 22px;
+}
+
+.mtte .list .pack.alt {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.mtte .pack .label { 
+  width: 450px;
+  padding-left: 5px;
+}
